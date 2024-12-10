@@ -1,2 +1,24 @@
 Ecrire ici votre réponse à la question UML.
 
+1er Diagramme
+Avantages :
+
+Modèle bien structuré, adapté pour des systèmes complexes.
+Permet de gérer différents types d'événements (simples, répétitifs, avec conditions de fin).
+Utilisation des classes de date/temps modernes (java.time).
+
+Inconvénients :
+
+Plus complexe à implémenter et à comprendre.
+Peut être excessif pour des besoins simples.
+
+
+2e Diagramme (moins détaillé ou simplifié)
+Avantages :
+
+Simple, facile à comprendre et à coder.
+Convient pour des systèmes légers ou des besoins spécifiques.
+
+Inconvénients :
+Moins flexible et extensible.
+Peut nécessiter des adaptations supplémentaires pour gérer des cas complexes (par exemple, événements répétitifs ou exceptions).
