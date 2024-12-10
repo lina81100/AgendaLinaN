@@ -13,7 +13,7 @@ Plus complexe à implémenter et à comprendre.
 Peut être excessif pour des besoins simples.
 
 
-2e Diagramme (moins détaillé ou simplifié)
+2e Diagramme
 Avantages :
 
 Simple, facile à comprendre et à coder.
